@@ -72,7 +72,6 @@ if (isset($_POST['ubah'])) {
                 } else {
                     foreach ($data as $r) {
                         $no++
-
                 ?>
                         <tr>
                             <td class="text-center"><?php echo $no; ?></td>
